@@ -20,6 +20,5 @@
   ## and if you wish to donate:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/YugankDas) 
 
-i'd love to build something meaningful.
+# i'd love to build something meaningful.
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
